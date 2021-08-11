@@ -1,3 +1,5 @@
+![Screen Capture](screen_capture.png)
+
 # barebones pygame
 
 Describe how to stand up a simple pygame project.
